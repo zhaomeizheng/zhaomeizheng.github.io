@@ -1,0 +1,31 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title> Zhao Mei Zheng</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <style>
+.center {
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+}
+ </head>
+
+<body id="index" class="home">
+ <div class="center"> 
+ <a href="about.html">About</a>
+ <a href="blog.html">Blog</a>
+ <a href="botes.html">Notes</a>
+ <a href="teaching.html">Teaching</a>
+ <a href="resume.html">Resume</a>
+
+<h1>Resume</h1>
+<h2>Just a place holder right now. </h2>
+<p>
+<h2> </h2>
+
+
+</div>
+</body>
+</html>
